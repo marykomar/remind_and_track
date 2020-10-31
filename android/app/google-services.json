@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716611330056",
+    "firebase_url": "https://remind-and-track.firebaseio.com",
+    "project_id": "remind-and-track",
+    "storage_bucket": "remind-and-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716611330056:android:c8e5baacb80d52103af1bd",
+        "android_client_info": {
+          "package_name": "com.mariakomar.remind_and_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716611330056-g8q7nbt09fat8uif2tfbq0httl3esoaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaC20JbihTGezUnywM2TYmXB6YKPKSJlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716611330056-g8q7nbt09fat8uif2tfbq0httl3esoaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
